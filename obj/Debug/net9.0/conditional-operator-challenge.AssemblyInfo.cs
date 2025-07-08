@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("conditional-operator-challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca3848875d4b4cb3754f31563619f694e26c7a9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb2b20cf74111816312315ac3e7046a76ef9b647")]
 [assembly: System.Reflection.AssemblyProductAttribute("conditional-operator-challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("conditional-operator-challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
