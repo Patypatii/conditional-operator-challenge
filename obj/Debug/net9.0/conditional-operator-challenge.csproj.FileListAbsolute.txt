@@ -1,0 +1,15 @@
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\bin\Debug\net9.0\conditional-operator-challenge.exe
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\bin\Debug\net9.0\conditional-operator-challenge.deps.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\bin\Debug\net9.0\conditional-operator-challenge.runtimeconfig.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\bin\Debug\net9.0\conditional-operator-challenge.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\bin\Debug\net9.0\conditional-operator-challenge.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\obj\Debug\net9.0\conditional-operator-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\obj\Debug\net9.0\conditional-operator-challenge.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\obj\Debug\net9.0\conditional-operator-challenge.AssemblyInfo.cs
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\obj\Debug\net9.0\conditional-operator-challenge.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\obj\Debug\net9.0\conditional-operator-challenge.sourcelink.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\obj\Debug\net9.0\conditional-operator-challenge.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\obj\Debug\net9.0\refint\conditional-operator-challenge.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\obj\Debug\net9.0\conditional-operator-challenge.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\obj\Debug\net9.0\conditional-operator-challenge.genruntimeconfig.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\conditional-operator-challenge\obj\Debug\net9.0\ref\conditional-operator-challenge.dll
